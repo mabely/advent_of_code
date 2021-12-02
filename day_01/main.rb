@@ -29,7 +29,7 @@ end
 
 
 if __FILE__ == $0
-  file = '01_input.txt'
+  file = 'input.txt'
 
   print 'Answer for Part 1: '
   puts main_1a(file)
